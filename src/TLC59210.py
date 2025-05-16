@@ -1,4 +1,4 @@
-import RPi.GPIO as GPIO
+import Jetson.GPIO as GPIO
 import time
 from S_74HC595 import S_74HC595
 
